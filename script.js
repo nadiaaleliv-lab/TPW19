@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
         links: {
             github: 'https://github.com/nadiaaleliv-lab',
             linkedin: 'https://linkedin.com/in/usuariwww.linkedin.com/in/nadia-aleli-vega-reyes-a9320335b',
-            portfolio: 'http://127.0.0.1:5501/index.html',
+            portfolio: 'portafolio',
             email: 'nadiaaleliv@utp.edu.pe',
             cv: 'documents/cv.pdf',
             instagram: 'https://www.instagram.com/vegareyesnadia/'
